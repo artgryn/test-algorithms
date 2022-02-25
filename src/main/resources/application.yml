@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: telia-test-algorithm
+
+server:
+  port: 8080
+
